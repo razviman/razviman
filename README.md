@@ -8,12 +8,19 @@ My goal is to continuously learn and improve my skills, specifically in **Java**
 
 ## 🔧 Technologies & Tools I Use
 -**Programming Languages**
+
 -**C++, Java, C#, Python**
+
 -**Web Development**
+
 -**HTML, PHP, CSS, JavaScript**
+
 -**Database Management**
+
 -**SQL, MySQL**
+
 -**Tools & Technologies**
+
 -**GitHub, Linux Basics, CLion, Microsoft Visual Studio, IntelliJ**
 
 ---
