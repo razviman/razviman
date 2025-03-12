@@ -26,14 +26,9 @@ My goal is to continuously learn and improve my skills, specifically in **Java**
 
 ---
 
-## 📈 GitHub Stats
-![Razvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=razviman&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
 ## 📬 Let's Connect
 - **Email**: [razvandraghici0601@gmail.com](mailto:razvandraghici0601@gmail.com)
 
 ---
 
-Feel free to browse my repositories and reach out if you're interested in collaborating or discussing tech! 🚀
+## "Life is worth living." 🚀
